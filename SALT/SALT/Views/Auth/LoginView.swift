@@ -153,7 +153,7 @@ struct LoginView: View {
                 .padding(.horizontal, 24)
                 
                 // Demo hint
-                Text("Demo: demo@salt.savannah / salt2025")
+                Text("Demo: demo@salt.savannah / SavannahTour1")
                     .font(SaltTypography.caption)
                     .foregroundStyle(Color.saltSecondaryLabel)
                     .padding(.top, 32)
